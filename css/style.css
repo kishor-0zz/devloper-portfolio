@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 500;
+}
+.my-class1{
+    color: #fabc8f;
+}
+section {
+    display: flex;
+}
+.helf-width{
+    width: 50%;
+}
+.helf-width img{
+    width: 80%;
+    padding-left: 2%;
+}
+.link-btn {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(red,blue);
+    text-transform: uppercase;
+    font-weight: 400;
+    color: white;
+    border-radius: 10px;
+}
